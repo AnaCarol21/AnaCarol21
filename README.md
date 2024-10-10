@@ -3,10 +3,10 @@
 # :computer:Seja bem vindo(a) ao meu perfil!
 - :star2: Meu nome é Ana Lima, curiosa sobre desenvolvimento de software.
 - :books: Formada em Análise e Desenvolvimento de Sistemas.
-- :coffee: Atualmente estudando sobre java
+- :coffee: Atualmente estudando sobre Flutter
 
 ## Linguagens e ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,mysql,vscode,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=flutter,html,css,mysql,vscode,git,github)](https://skillicons.dev) 
 
 ### Vamos nos conectar!
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ana-lima-6957431a5) 
